@@ -10,10 +10,10 @@
 }
 
 * {
-    margin: 0;
+    margin-bottom: 5;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
-    text-align: center;
+    
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -96,7 +96,7 @@ a, a:hover {
    height: 190px;
 }
 .projetos-card-description h3 {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 700; 
     margin-bottom: 10px;
     text-align: center;
@@ -113,12 +113,16 @@ a, a:hover {
 }
 
 .projetos-card-description-bottom p {
+   
     font-size: 12px;
-    font-weight: 400;
+    font-weight: 500;
     color: var(--text-light-gray);
-    margin-bottom: 10px;
-    text-align: ceter;
-
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: justify;
+    line-height: 1.4;
+  
+    
 }
 
 .projetos-btn, .acende-btn:hover {
