@@ -16,7 +16,7 @@ Ele mostra todos os meus projetos, como um catálogo, mas online, é só clicar 
 | :sparkles: Nome        | **WebFolio**
 | :label: Tecnologias | java Script, html, CSS, Logicade Programação
 | :rocket: URL         |  https://romeuoliveira.github.io/webfolio/
-| :book: Alura   | 
+| :capelo: Alura   | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/romeuoliveira/webfolio/main/imgGitwebfolio.png#vitrinedev)
