@@ -1,7 +1,7 @@
 # WebFolio
 
 
-![](#vitrinedev)
+![](https://raw.githubusercontent.com/romeuoliveira/webfolio/main/imgGitwebfolio.png#vitrinedev)
 
 
 ## Esse é um projeto que decidi fazer com base nos conhecimentos adiquiridos em face aos outros projetos já feito.
