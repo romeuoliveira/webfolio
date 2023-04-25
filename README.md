@@ -6,8 +6,8 @@
 | :label: Tecnologias | java Script, html, CSS (tecnologias utilizadas)
 | :rocket: URL         | https://romeuoliveira.github.io/webfolio/
 
+![](https://via.placeholder.com/1200x500.png?text=repository-open-graph-template#vitrinedev)
 
-![](https://user-images.githubusercontent.com/65365754/234333338-ca85e617-2821-4186-a342-45394ed019a9.png#vitrinedev)
 
 
 ## Esse é um projeto que decidi fazer com base nos conhecimentos adiquiridos em face aos outros projetos já feito.
