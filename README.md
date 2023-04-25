@@ -1,6 +1,6 @@
 # WebFolio
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/oromeu     |
 | -------------  | --- |
 | :sparkles: Nome        | **WebFolio**
 | :label: Tecnologias | java Script, html, CSS (tecnologias utilizadas)
