@@ -11,7 +11,9 @@ Ele mostra todos os meus projetos, como um catálogo, mas online, é só clicar 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" height="30" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30" />
 
 
-| :placard: Vitrine.Dev |     |
+![](https://raw.githubusercontent.com/romeuoliveira/webfolio/main/imgGitwebfolio.png#vitrinedev)
+
+| :placard: Vitrine.Dev |                       |
 | -------------  | --- |
 | :sparkles: Nome        | **WebFolio**
 | :label: Tecnologias | java Script, html, CSS, Logicade Programação
@@ -19,4 +21,4 @@ Ele mostra todos os meus projetos, como um catálogo, mas online, é só clicar 
 | 📖: Alura             | https://cursos.alura.com.br/vitrinedev/oromeu
 
 
-![](https://raw.githubusercontent.com/romeuoliveira/webfolio/main/imgGitwebfolio.png#vitrinedev)
+
