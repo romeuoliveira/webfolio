@@ -19,5 +19,7 @@ Ele mostra todos os meus projetos, como um catálogo, mas online, é só clicar 
 | 📖: Alura             | https://url-do-desafio.com.br
 
 
-![](https://raw.githubusercontent.com/romeuoliveira/webfolio/main/imgGitwebfolio.png#vitrineDev)
+![](https://romeuoliveira.github.io/webfolio/#vitrineDev)
+
+
 
