@@ -15,8 +15,7 @@ Ele mostra todos os meus projetos, como um catálogo, mas online, é só clicar 
 | -------------  | -------|
 | :sparkles: Nome        | **WebFolio**
 | :label: Tecnologias    | java Script, html, CSS, Logicade Programação
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+
 
 
 ![](https://raw.githubusercontent.com/romeuoliveira/webfolio/main/imgGitwebfolio.png#vitrinedev)!
